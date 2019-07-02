@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProfileCard</string>
+    <string name="id_card">ID Card:</string>
+    <string name="firstName">first name:</string>
+    <string name="lastName">last name: </string>
+    <string name="addressLine1">street: </string>
+    <string name="addressLine2">city, state, zip: </string>
+    <string name="DOB">DOB: </string>
+    <string name="submitButton">Done</string>
+</resources>
